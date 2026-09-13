@@ -1,0 +1,6 @@
+arq_db_data/
+vendor/
+node_modules/
+.env
+*.log
+.DS_Store
